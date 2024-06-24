@@ -1,0 +1,13 @@
+
+.both{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+}
+.one{
+    background-color: rgb(27, 19, 19);
+    color: rgb(240, 233, 233);
+    font-weight: bold;
+}
+.two{
+    background-color: rgb(246, 246, 6);
+}
