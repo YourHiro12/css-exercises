@@ -12,6 +12,43 @@ img {
   font-weight: 900;
 }
 
+
+
+
+/*solution*/ 
+
+body{
+  text-align: center;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.isi{
+  max-width: 200px;
+}
+
+.title{
+  margin-bottom: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
